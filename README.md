@@ -29,4 +29,5 @@ The command will run the MCTS planner for the 5-item case (menu_5items.txt) with
 * `useroracle.py` defines the user models for running simulations. These models are used towards predicting task completion time given a menu design, and for computing the reward after making an adaptation.
 
 [Read the Value Network documentation.](./value_network/README.md)
+
 [Read the Policy Network documentation.](./policy_network/README.md)
