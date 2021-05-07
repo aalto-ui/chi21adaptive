@@ -1,0 +1,5 @@
+tomato,potato,carrot,onion,beans
+gloves,shoes,bikini,skirt
+chair,table,sofa,shelf
+rabbit,tiger,panda,fish
+windy,sunny,rainy

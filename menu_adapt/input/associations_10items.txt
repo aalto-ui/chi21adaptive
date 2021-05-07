@@ -1,0 +1,4 @@
+tomato,potato,carrot,onion
+gloves,shoes,bikini,skirt
+chair
+table

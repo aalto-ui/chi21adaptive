@@ -1,0 +1,8 @@
+{'potato': 0.3, 'tomato': 0.64, 'shoes': 0.02, 'chair': 0.0, 'gloves': 0.04}
+{'potato': 0.58, 'tomato': 0.08, 'shoes': 0.06, 'chair': 0.04, 'gloves': 0.24}
+{'potato': 0.42, 'tomato': 0.1, 'shoes': 0.12, 'chair': 0.14, 'gloves': 0.22}
+{'potato': 0.1, 'tomato': 0.12, 'shoes': 0.16, 'chair': 0.18, 'gloves': 0.44}
+{'potato': 0.44, 'tomato': 0.04, 'shoes': 0.16, 'chair': 0.18, 'gloves': 0.18}
+{'potato': 0.0, 'tomato': 0.6, 'shoes': 0.4, 'chair': 0.0, 'gloves': 0.0}
+{'potato': 0.0, 'tomato': 0.84, 'shoes': 0.0, 'chair': 0.16, 'gloves': 0.0}
+{'potato': 0.52, 'tomato': 0.14, 'shoes': 0.08, 'chair': 0.14, 'gloves': 0.12}

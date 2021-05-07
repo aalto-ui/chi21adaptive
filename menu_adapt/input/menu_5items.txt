@@ -1,0 +1,5 @@
+gloves
+chair
+tomato
+shoes
+potato

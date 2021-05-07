@@ -1,0 +1,8 @@
+{'carrot': 0.08, 'skirt': 0.1, 'potato': 0.0, 'tomato': 0.26, 'onion': 0.08, 'bikini': 0.0, 'shoes': 0.02, 'chair': 0.44, 'table': 0.0, 'gloves': 0.02}
+{'carrot': 0.02, 'skirt': 0.08, 'potato': 0.18, 'tomato': 0.06, 'onion': 0.06, 'bikini': 0.26, 'shoes': 0.02, 'chair': 0.1, 'table': 0.02, 'gloves': 0.2}
+{'carrot': 0.0, 'skirt': 0.0, 'potato': 0.0, 'tomato': 0.06, 'onion': 0.24, 'bikini': 0.0, 'shoes': 0.06, 'chair': 0.6, 'table': 0.0, 'gloves': 0.04}
+{'carrot': 0.14, 'skirt': 0.04, 'potato': 0.02, 'tomato': 0.1, 'onion': 0.04, 'bikini': 0.0, 'shoes': 0.04, 'chair': 0.44, 'table': 0.18, 'gloves': 0.0}
+{'carrot': 0.46, 'skirt': 0.0, 'potato': 0.02, 'tomato': 0.0, 'onion': 0.0, 'bikini': 0.0, 'shoes': 0.0, 'chair': 0.0, 'table': 0.1, 'gloves': 0.42}
+{'carrot': 0.0, 'skirt': 0.16, 'potato': 0.0, 'tomato': 0.0, 'onion': 0.0, 'bikini': 0.0, 'shoes': 0.22, 'chair': 0.62, 'table': 0.0, 'gloves': 0.0}
+{'carrot': 0.0, 'skirt': 0.0, 'potato': 0.04, 'tomato': 0.04, 'onion': 0.02, 'bikini': 0.08, 'shoes': 0.02, 'chair': 0.02, 'table': 0.0, 'gloves': 0.78}
+{'carrot': 0.06, 'skirt': 0.0, 'potato': 0.18, 'tomato': 0.0, 'onion': 0.12, 'bikini': 0.18, 'shoes': 0.0, 'chair': 0.06, 'table': 0.4, 'gloves': 0.0}
