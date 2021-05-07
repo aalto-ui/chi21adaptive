@@ -13,8 +13,11 @@ This code repository is for the adaptive menus application described in the CHI 
 
 * `plan.py` is the starting point for code execution. To generate results, execute:
 
-* ```python3 plan.py -c 5items```
-The command will run the MCTS planner for the 5-item case (menu_5items.txt) without the value network. To use the value network, add the `-nn` option.
+* ```python3 plan.py```
+The command will run the MCTS planner for the 5-item case (`menu_5items.txt`) without the value network. To use the value network, add the `-nn` option.
+
+* ```python3 plan.py -h```
+See the full list of options available for running `plan.py`
 
 * `utility.py` contains useful functions for loading data, initialisation, etc.
 

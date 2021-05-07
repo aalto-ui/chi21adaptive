@@ -96,7 +96,7 @@ parallelised = False if args.nopp else True
 
 # Start the planner
 ray.init()
-print(f"Planning started. Strategy: {strategy}. Parallelisation: {parallelised}.")
+print(f"Planning started. Strategy: {strategy}. Parallelisation: {parallelised}. Neural Network: {use_network}.")
 print(f"Original menu: {menu_state.simplified_menu()}. Average selection time: {round(avg_time,2)} seconds")
 print(f"User Interest (normalised): {freqdist}")
 print(f"Associations: {associations}")
