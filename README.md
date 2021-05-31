@@ -9,7 +9,7 @@ This code repository is for the adaptive menus application described in the CHI 
 1. Ray (https://ray.io) for parallelisation.
 2. TensorFlow 2 (https://www.tensorflow.org/install/pip) for using the neural networks.
 
-## Key Components for MCTS
+## Key Components for the Menu Adaptation Application
 
 * `plan.py` is the starting point for code execution. To generate results, execute:
 
