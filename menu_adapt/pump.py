@@ -49,8 +49,8 @@ def pump(state, oracle, time_budget):
     # adaptation = treesearch.search(initial_state=state)
     # state = state.take_adaptation(adaptation)
     # rewards = oracle.get_individual_rewards(state)[0]
-    _, best_child_state, avg_rewards, _ = treesearch.search(initial_state=state)
-    return avg_rewards, best_child_state.menu_state.menu, best_child_state.exposed
+    _, best_child, avg_rewards, _ = treesearch.search(initial_state=state)
+    return avg_rewards, best_child.state.menu_state.menu, best_child.state.exposed
 
 def policy_pump(state,oracle,time_budget):
     treesearch = mcts.mcts(oracle, weights, objective = "AVERAGE", use_network = use_network, network_name = network, limit_type='time', time_limit = time_budget)
